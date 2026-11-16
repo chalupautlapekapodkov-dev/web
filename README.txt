@@ -38,4 +38,3 @@ Před zveřejněním
    a URL. Web neuvádí ceny ani dostupnost ve strukturovaných datech.
 6. Nahrajte soubory webu a vlastní obrázky na statický hosting. Znovu
    vyzkoušejte odkazy, mobilní menu a oba formuláře na zveřejněné adrese.
-
